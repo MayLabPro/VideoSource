@@ -1,0 +1,53 @@
+name: Check APIs and build configs
+
+on:
+  schedule:
+    - cron: "0 17 * * *" # 每天北京时间 01:00
+  push:
+    paths:
+      - 'input.json'
+      - 'scripts/**'
+      - '.github/workflows/check-and-build.yml'
+  workflow_dispatch:
+    inputs:
+      keyword:
+        description: '搜索关键字'
+        required: false
+        default: '你好'
+
+jobs:
+  build-and-check:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Check APIs and write generated JSON files
+        env:
+          SEARCH_KEYWORD: ${{ github.event.inputs.keyword || '你好' }}
+        run: npm run check -- "$SEARCH_KEYWORD"
+
+      - name: Verify generated JSON files
+        run: npm run verify
+
+      - name: Commit generated files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add lite.json adult.json full.json report.md
+          if git diff --cached --quiet; then
+            echo "No generated file changes."
+            exit 0
+          fi
+          git commit -m "Update generated configs and API report"
+          git push
+

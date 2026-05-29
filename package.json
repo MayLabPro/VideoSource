@@ -1,0 +1,14 @@
+{
+  "name": "video-source-configs",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Generate LunaTV JSON variants and API availability report.",
+  "scripts": {
+    "check": "node scripts/check-apis.js",
+    "verify": "node --check scripts/check-apis.js && node --check scripts/verify-configs.js && node scripts/verify-configs.js",
+    "test": "npm run check -- 你好 && npm run verify"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
