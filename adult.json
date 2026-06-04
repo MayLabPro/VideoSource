@@ -114,6 +114,11 @@
     "api": "https://api.souavzyw.net/api.php/provide/vod",
     "detail": "https://api.souavzyw.net"
   },
+  "www.xxibaozyw.com": {
+    "name": "🔞细胞资源",
+    "api": "https://www.xxibaozyw.com/api.php/provide/vod",
+    "detail": "https://www.xxibaozyw.com"
+  },
   "xiangjiaozyw.com": {
     "name": "🔞香蕉资源",
     "api": "https://www.xiangjiaozyw.com/api.php/provide/vod",
@@ -143,11 +148,6 @@
     "name": "🔞色猫资源",
     "api": "https://caiji.semaozy.net/inc/apijson_vod.php/provide/vod",
     "detail": "https://semaozy1.com"
-  },
-  "aosikazy.com": {
-    "name": "🔞-奥斯卡-",
-    "api": "https://aosikazy.com/api.php/provide/vod",
-    "detail": "https://aosikazy.com"
   },
   "siwazyw.tv": {
     "name": "🔞丝袜资源",
