@@ -9,11 +9,6 @@
     "api": "https://caiji.dbzy5.com/api.php/provide/vod",
     "detail": "https://dbzy.tv"
   },
-  "mtzy.me": {
-    "name": "茅台资源",
-    "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
-    "detail": "https://mtzy.me"
-  },
   "wolongzyw.com": {
     "name": "卧龙资源",
     "api": "https://wolongzyw.com/api.php/provide/vod",
@@ -88,11 +83,6 @@
     "name": "飘零资源",
     "api": "https://p2100.net/api.php/provide/vod",
     "detail": "https://p2100.net"
-  },
-  "api.ukuapi88.com": {
-    "name": "U酷影视",
-    "api": "https://api.ukuapi88.com/api.php/provide/vod",
-    "detail": "https://www.ukuzy.com"
   },
   "api.guangsuapi.com": {
     "name": "光速资源",
