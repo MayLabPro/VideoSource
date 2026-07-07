@@ -44,6 +44,11 @@
     "api": "https://360zyzz.com/api.php/provide/vod",
     "detail": "https://360zy.com"
   },
+  "jszyapi.com": {
+    "name": "极速资源",
+    "api": "https://jszyapi.com/api.php/provide/vod",
+    "detail": "https://jszyapi.com"
+  },
   "www.moduzy.net": {
     "name": "魔都资源",
     "api": "https://www.mdzyapi.com/api.php/provide/vod",

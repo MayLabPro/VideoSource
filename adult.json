@@ -94,16 +94,6 @@
     "api": "https://api.bwzyz.com/api.php/provide/vod",
     "detail": "https://api.bwzym3u8.com"
   },
-  "thzy8.me": {
-    "name": "🔞桃花资源",
-    "api": "https://thzy1.me/api.php/provide/vod",
-    "detail": "https://thzy8.me"
-  },
-  "www.jingpinx.com": {
-    "name": "🔞精品资源",
-    "api": "https://www.jingpinx.com/api.php/provide/vod",
-    "detail": "https://www.jingpinx.com"
-  },
   "ckzy.me": {
     "name": "🔞 CK-资源",
     "api": "https://ckzy.me/api.php/provide/vod",
