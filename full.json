@@ -199,11 +199,6 @@
     "api": "https://api.xiaojizy.live/provide/vod",
     "detail": "https://xiaojizy.live"
   },
-  "hsckzy.xyz": {
-    "name": "🔞黄色仓库",
-    "api": "https://hsckzy.xyz/api.php/provide/vod",
-    "detail": "https://hsckzy.xyz"
-  },
   "apidanaizi.com": {
     "name": "🔞-大奶子-",
     "api": "https://apidanaizi.com/api.php/provide/vod",
@@ -258,6 +253,16 @@
     "name": "🔞百万资源",
     "api": "https://api.bwzyz.com/api.php/provide/vod",
     "detail": "https://api.bwzym3u8.com"
+  },
+  "thzy8.me": {
+    "name": "🔞桃花资源",
+    "api": "https://thzy1.me/api.php/provide/vod",
+    "detail": "https://thzy8.me"
+  },
+  "www.jingpinx.com": {
+    "name": "🔞精品资源",
+    "api": "https://www.jingpinx.com/api.php/provide/vod",
+    "detail": "https://www.jingpinx.com"
   },
   "ckzy.me": {
     "name": "🔞 CK-资源",
