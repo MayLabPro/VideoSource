@@ -84,11 +84,6 @@
     "api": "https://subocaiji.com/api.php/provide/vod",
     "detail": "https://www.subozy.com"
   },
-  "p2100.net": {
-    "name": "飘零资源",
-    "api": "https://p2100.net/api.php/provide/vod",
-    "detail": "https://p2100.net"
-  },
   "api.ukuapi88.com": {
     "name": "U酷影视",
     "api": "https://api.ukuapi88.com/api.php/provide/vod",
@@ -198,6 +193,11 @@
     "name": "🔞小鸡资源",
     "api": "https://api.xiaojizy.live/provide/vod",
     "detail": "https://xiaojizy.live"
+  },
+  "hsckzy.xyz": {
+    "name": "🔞黄色仓库",
+    "api": "https://hsckzy.xyz/api.php/provide/vod",
+    "detail": "https://hsckzy.xyz"
   },
   "apidanaizi.com": {
     "name": "🔞-大奶子-",

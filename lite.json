@@ -84,11 +84,6 @@
     "api": "https://subocaiji.com/api.php/provide/vod",
     "detail": "https://www.subozy.com"
   },
-  "p2100.net": {
-    "name": "飘零资源",
-    "api": "https://p2100.net/api.php/provide/vod",
-    "detail": "https://p2100.net"
-  },
   "api.ukuapi88.com": {
     "name": "U酷影视",
     "api": "https://api.ukuapi88.com/api.php/provide/vod",
