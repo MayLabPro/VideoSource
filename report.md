@@ -1,97 +1,97 @@
 # API 检测报告
 
-最近更新: 2026/07/24 02:08:41 Asia/Shanghai
+最近更新: 2026/07/25 02:12:45 Asia/Shanghai
 
 检测关键词: 你好
 
 总源数: 72
-可用源数: 61
-失败源数: 11
-可用率: 84.7%
-搜索命中: 47
+可用源数: 62
+失败源数: 10
+可用率: 86.1%
+搜索命中: 48
 普通源输入/通过: 38/32
-成人源输入/通过: 34/29
+成人源输入/通过: 34/30
 
 | 状态 | 分组 | 名称 | HTTP | 搜索 | 耗时(ms) | 备注 | API |
 | --- | --- | --- | ---: | --- | ---: | --- | --- |
-| FAIL | adult | 🔞百万资源 | - | Timeout after 10000ms | 60278 | Timeout after 10000ms | [Link](https://api.bwzyz.com/api.php/provide/vod) |
-| FAIL | adult | 🔞大地资源 | 301 | HTTP 301 | 559 | 污染搜索结果 | [Link](https://dadiapi.com/feifei) |
-| FAIL | adult | 🔞黄色仓库 | 523 | HTTP 523 | 280 | HTTP 523 | [Link](https://hsckzy.xyz/api.php/provide/vod) |
-| FAIL | adult | 🔞丝袜资源 | - | getaddrinfo ENOTFOUND siwazyw.tv | 96 | 污染搜索结果 | [Link](https://siwazyw.tv/api.php/provide/vod) |
-| FAIL | adult | 🔞优优资源 | - | getaddrinfo ENOTFOUND www.yytv4.cc | 244 | getaddrinfo ENOTFOUND www.yytv4.cc | [Link](https://www.yytv4.cc/api.php/provide/vod) |
-| FAIL | lite | 艾旦影视 | 403 | HTTP 403 | 602 | HTTP 403 | [Link](https://lovedan.net/api.php/provide/vod) |
-| FAIL | lite | 百度云zy | 403 | HTTP 403 | 588 | HTTP 403 | [Link](https://api.apibdzy.com/api.php/provide/vod) |
-| FAIL | lite | 金鹰点播 | 403 | HTTP 403 | 589 | HTTP 403 | [Link](https://jinyingzy.com/api.php/provide/vod) |
-| FAIL | lite | 飘零资源 | 403 | HTTP 403 | 452 | HTTP 403 | [Link](https://p2100.net/api.php/provide/vod) |
-| FAIL | lite | 旺旺短剧 | 301 | HTTP 301 | 440 | 备用 | [Link](https://wwzy.tv/api.php/provide/vod) |
-| FAIL | lite | 旺旺资源 | 301 | HTTP 301 | 452 | HTTP 301 | [Link](https://api.wwzy.tv/api.php/provide/vod) |
-| OK | adult | 🔞 CK-资源 | 200 | 命中 | 245 | 无搜索结果 | [Link](https://ckzy.me/api.php/provide/vod) |
-| OK | adult | 🔞--AIvin- | 200 | 命中 | 5573 |  | [Link](http://lbapiby.com/api.php/provide/vod) |
-| OK | adult | 🔞-奥斯卡- | 200 | 无结果 | 1129 | 禁止搜索结果 | [Link](https://aosikazy.com/api.php/provide/vod) |
-| OK | adult | 🔞-大奶子- | 200 | 命中 | 775 |  | [Link](https://apidanaizi.com/api.php/provide/vod) |
-| OK | adult | 🔞-黄AVZY | 200 | 命中 | 559 | 无法搜索 | [Link](https://www.pgxdy.com/api/json.php) |
-| OK | adult | 🔞-老色逼- | 200 | 命中 | 308 |  | [Link](https://apilsbzy1.com/api.php/provide/vod) |
-| OK | adult | 🔞-美少女- | 200 | 命中 | 670 | 无法搜索 | [Link](https://www.msnii.com/api/json.php) |
-| OK | adult | 🔞155-资源 | 200 | 命中 | 166 |  | [Link](https://155api.com/api.php/provide/vod) |
-| OK | adult | 🔞白嫖资源 | 200 | 命中 | 856 | 无法搜索 | [Link](https://www.kxgav.com/api/json.php) |
-| OK | adult | 🔞滴滴资源 | 200 | 命中 | 520 |  | [Link](https://api.ddapi.cc/api.php/provide/vod) |
-| OK | adult | 🔞豆豆资源 | 200 | 命中 | 503 |  不稳定  | [Link](https://api.douapi.cc/api.php/provide/vod) |
-| OK | adult | 🔞番号资源 | 200 | 命中 | 2153 |  | [Link](http://fhapi9.com/api.php/provide/vod) |
-| OK | adult | 🔞黑料资源 | 200 | 命中 | 2692 |  | [Link](https://www.heiliaozyapi.com/api.php/provide/vod) |
-| OK | adult | 🔞精品资源 | 200 | 命中 | 1038 |  | [Link](https://www.jingpinx.com/api.php/provide/vod) |
-| OK | adult | 🔞辣椒资源 | 200 | 命中 | 426 |  | [Link](https://apilj.com/api.php/provide/vod) |
-| OK | adult | 🔞乐播资源 | 200 | 命中 | 4973 |  | [Link](https://lbapi9.com/api.php/provide/vod) |
-| OK | adult | 🔞麻豆视频 | 200 | 命中 | 2178 |  | [Link](https://91md.me/api.php/provide/vod) |
-| OK | adult | 🔞奶香资源 | 200 | 命中 | 1905 |  | [Link](https://Naixxzy.com/api.php/provide/vod) |
-| OK | adult | 🔞色猫资源 | 200 | 无结果 | 409 | 无法搜索 | [Link](https://caiji.semaozy.net/inc/apijson_vod.php/provide/vod) |
-| OK | adult | 🔞森林资源 | 200 | 无结果 | 426 |  | [Link](https://beiyong.slapibf.com/api.php/provide/vod) |
-| OK | adult | 🔞鲨鱼资源 | 200 | 命中 | 3561 |  | [Link](https://shayuapi.com/api.php/provide/vod) |
-| OK | adult | 🔞桃花资源 | 200 | 命中 | 1126 |  | [Link](https://thzy1.me/api.php/provide/vod) |
-| OK | adult | 🔞细胞资源 | 200 | 命中 | 691 | 无搜索结果 | [Link](https://www.xxibaozyw.com/api.php/provide/vod) |
-| OK | adult | 🔞香蕉资源 | 200 | 命中 | 913 | 无搜索结果 | [Link](https://www.xiangjiaozyw.com/api.php/provide/vod) |
-| OK | adult | 🔞小鸡资源 | 200 | 命中 | 800 |  | [Link](https://api.xiaojizy.live/provide/vod) |
-| OK | adult | 🔞杏吧资源 | 200 | 无结果 | 738 | 403 Forbidden | [Link](https://xingba222.com/api.php/provide/vod) |
-| OK | adult | 🔞玉兔资源 | 200 | 命中 | 427 |  | [Link](https://apiyutu.com/api.php/provide/vod) |
-| OK | adult | 🔞jkun资源 | 200 | 命中 | 66 |  | [Link](https://jkunzyapi.com/api.php/provide/vod) |
-| OK | adult | 🔞souavZY | 200 | 命中 | 807 |  | [Link](https://api.souavzyw.net/api.php/provide/vod) |
-| OK | lite | 360资源 | 200 | 命中 | 1389 |  | [Link](https://360zyzz.com/api.php/provide/vod) |
-| OK | lite | 爱奇艺 | 200 | 命中 | 1607 |  | [Link](https://iqiyizyapi.com/api.php/provide/vod) |
-| OK | lite | 暴风资源 | 200 | 命中 | 738 |  | [Link](https://bfzyapi.com/api.php/provide/vod) |
-| OK | lite | 电影天堂 | 200 | HTTP 307 | 1705 |  | [Link](http://caiji.dyttzyapi.com/api.php/provide/vod) |
-| OK | lite | 豆瓣资源 | 200 | 无结果 | 889 | 有伦理片 | [Link](https://caiji.dbzy5.com/api.php/provide/vod) |
-| OK | lite | 非凡资源 | 200 | HTTP 307 | 1528 |  | [Link](https://api.ffzyapi.com/api.php/provide/vod) |
-| OK | lite | 光速资源 | 200 | 命中 | 145 |  | [Link](https://api.guangsuapi.com/api.php/provide/vod) |
-| OK | lite | 豪华资源 | 200 | 命中 | 779 |  | [Link](https://hhzyapi.com/api.php/provide/vod) |
-| OK | lite | 红牛资源 | 200 | 命中 | 650 |  | [Link](https://www.hongniuzy2.com/api.php/provide/vod) |
-| OK | lite | 虎牙资源 | 200 | 命中 | 377 | 污染搜索结果 | [Link](https://www.huyaapi.com/api.php/provide/vod) |
-| OK | lite | 极速资源 | 200 | 命中 | 1152 |  | [Link](https://jszyapi.com/api.php/provide/vod) |
-| OK | lite | 快车资源 | 200 | 无结果 | 586 | 暂不支持搜索 | [Link](https://caiji.kuaichezy.org/api.php/provide/vod) |
-| OK | lite | 量子影视 | 200 | 命中 | 324 | 备用 | [Link](https://cj.lziapi.com/api.php/provide/vod) |
-| OK | lite | 量子资源 | 200 | 命中 | 1215 |  | [Link](https://cj.lzcaiji.com/api.php/provide/vod) |
-| OK | lite | 猫眼资源 | 200 | 命中 | 1895 |  | [Link](https://api.maoyanapi.top/api.php/provide/vod) |
-| OK | lite | 茅台资源 | 200 | 无结果 | 2635 |  | [Link](https://caiji.maotaizy.cc/api.php/provide/vod) |
-| OK | lite | 魔都动漫 | 200 | 命中 | 1363 |  | [Link](https://caiji.moduapi.cc/api.php/provide/vod) |
-| OK | lite | 魔都资源 | 200 | 命中 | 1921 |  | [Link](https://www.mdzyapi.com/api.php/provide/vod) |
-| OK | lite | 如意资源 | 200 | 命中 | 2099 |  | [Link](https://cj.rycjapi.com/api.php/provide/vod) |
-| OK | lite | 闪电资源 | 200 | 无结果 | 471 | 暂不支持搜索 | [Link](https://xsd.sdzyapi.com/api.php/provide/vod) |
-| OK | lite | 速播资源 | 200 | 命中 | 2335 |  | [Link](https://subocaiji.com/api.php/provide/vod) |
-| OK | lite | 索尼资源 | 200 | 无结果 | 263 | 暂不支持搜索 | [Link](https://suoniapi.com/api.php/provide/vod) |
-| OK | lite | 卧龙资源 | 200 | 无结果 | 1329 |  | [Link](https://wolongzyw.com/api.php/provide/vod) |
-| OK | lite | 无尽资源 | 200 | 命中 | 217 |  | [Link](https://api.wujinapi.me/api.php/provide/vod) |
-| OK | lite | 新浪资源 | 200 | 命中 | 542 |  | [Link](https://api.xinlangapi.com/xinlangapi.php/provide/vod) |
-| OK | lite | 鸭鸭资源 | 200 | 无结果 | 587 | 暂不支持搜索 | [Link](https://cj.yayazy.net/api.php/provide/vod) |
-| OK | lite | 樱花资源 | 200 | HTTP 403 | 960 |  403 Forbidden  | [Link](https://m3u8.apiyhzy.com/api.php/provide/vod) |
-| OK | lite | 优质资源 | 200 | 命中 | 1512 | 无法搜索 | [Link](https://api.yzzy-api.com/inc/apijson.php) |
-| OK | lite | 最大点播 | 200 | 命中 | 700 | 备用 | [Link](https://zuidazy.me/api.php/provide/vod) |
-| OK | lite | 最大资源 | 200 | 命中 | 252 |  | [Link](https://api.zuidapi.com/api.php/provide/vod) |
-| OK | lite | iKun资源 | 200 | 命中 | 1300 |  | [Link](https://ikunzyapi.com/api.php/provide/vod) |
-| OK | lite | U酷影视 | 200 | 命中 | 239 |  | [Link](https://api.ukuapi88.com/api.php/provide/vod) |
+| FAIL | adult | 🔞百万资源 | - | Timeout after 10000ms | 60174 | Timeout after 10000ms | [Link](https://api.bwzyz.com/api.php/provide/vod) |
+| FAIL | adult | 🔞大地资源 | 301 | HTTP 301 | 596 | 污染搜索结果 | [Link](https://dadiapi.com/feifei) |
+| FAIL | adult | 🔞丝袜资源 | - | getaddrinfo ENOTFOUND siwazyw.tv | 81 | 污染搜索结果 | [Link](https://siwazyw.tv/api.php/provide/vod) |
+| FAIL | adult | 🔞优优资源 | - | getaddrinfo ENOTFOUND www.yytv4.cc | 171 | getaddrinfo ENOTFOUND www.yytv4.cc | [Link](https://www.yytv4.cc/api.php/provide/vod) |
+| FAIL | lite | 艾旦影视 | 403 | HTTP 403 | 910 | HTTP 403 | [Link](https://lovedan.net/api.php/provide/vod) |
+| FAIL | lite | 百度云zy | 403 | HTTP 403 | 956 | HTTP 403 | [Link](https://api.apibdzy.com/api.php/provide/vod) |
+| FAIL | lite | 金鹰点播 | 403 | HTTP 403 | 226 | HTTP 403 | [Link](https://jinyingzy.com/api.php/provide/vod) |
+| FAIL | lite | 飘零资源 | 403 | HTTP 403 | 190 | HTTP 403 | [Link](https://p2100.net/api.php/provide/vod) |
+| FAIL | lite | 旺旺短剧 | 301 | HTTP 301 | 560 | 备用 | [Link](https://wwzy.tv/api.php/provide/vod) |
+| FAIL | lite | 旺旺资源 | 301 | HTTP 301 | 697 | HTTP 301 | [Link](https://api.wwzy.tv/api.php/provide/vod) |
+| OK | adult | 🔞 CK-资源 | 200 | 命中 | 350 | 无搜索结果 | [Link](https://ckzy.me/api.php/provide/vod) |
+| OK | adult | 🔞--AIvin- | 200 | 命中 | 5178 |  | [Link](http://lbapiby.com/api.php/provide/vod) |
+| OK | adult | 🔞-奥斯卡- | 200 | 无结果 | 1068 | 禁止搜索结果 | [Link](https://aosikazy.com/api.php/provide/vod) |
+| OK | adult | 🔞-大奶子- | 200 | 命中 | 767 |  | [Link](https://apidanaizi.com/api.php/provide/vod) |
+| OK | adult | 🔞-黄AVZY | 200 | 命中 | 745 | 无法搜索 | [Link](https://www.pgxdy.com/api/json.php) |
+| OK | adult | 🔞-老色逼- | 200 | 命中 | 245 |  | [Link](https://apilsbzy1.com/api.php/provide/vod) |
+| OK | adult | 🔞-美少女- | 200 | 命中 | 809 | 无法搜索 | [Link](https://www.msnii.com/api/json.php) |
+| OK | adult | 🔞155-资源 | 200 | 命中 | 216 |  | [Link](https://155api.com/api.php/provide/vod) |
+| OK | adult | 🔞白嫖资源 | 200 | 命中 | 1028 | 无法搜索 | [Link](https://www.kxgav.com/api/json.php) |
+| OK | adult | 🔞滴滴资源 | 200 | 命中 | 477 |  | [Link](https://api.ddapi.cc/api.php/provide/vod) |
+| OK | adult | 🔞豆豆资源 | 200 | 命中 | 511 |  不稳定  | [Link](https://api.douapi.cc/api.php/provide/vod) |
+| OK | adult | 🔞番号资源 | 200 | 命中 | 1804 |  | [Link](http://fhapi9.com/api.php/provide/vod) |
+| OK | adult | 🔞黑料资源 | 200 | 命中 | 2588 |  | [Link](https://www.heiliaozyapi.com/api.php/provide/vod) |
+| OK | adult | 🔞黄色仓库 | 200 | 命中 | 143 |  | [Link](https://hsckzy.xyz/api.php/provide/vod) |
+| OK | adult | 🔞精品资源 | 200 | 命中 | 1015 |  | [Link](https://www.jingpinx.com/api.php/provide/vod) |
+| OK | adult | 🔞辣椒资源 | 200 | 命中 | 506 |  | [Link](https://apilj.com/api.php/provide/vod) |
+| OK | adult | 🔞乐播资源 | 200 | 命中 | 3910 |  | [Link](https://lbapi9.com/api.php/provide/vod) |
+| OK | adult | 🔞麻豆视频 | 200 | 命中 | 1716 |  | [Link](https://91md.me/api.php/provide/vod) |
+| OK | adult | 🔞奶香资源 | 200 | 命中 | 2023 |  | [Link](https://Naixxzy.com/api.php/provide/vod) |
+| OK | adult | 🔞色猫资源 | 200 | 无结果 | 253 | 无法搜索 | [Link](https://caiji.semaozy.net/inc/apijson_vod.php/provide/vod) |
+| OK | adult | 🔞森林资源 | 200 | 无结果 | 406 |  | [Link](https://beiyong.slapibf.com/api.php/provide/vod) |
+| OK | adult | 🔞鲨鱼资源 | 200 | 命中 | 3378 |  | [Link](https://shayuapi.com/api.php/provide/vod) |
+| OK | adult | 🔞桃花资源 | 200 | 命中 | 1133 |  | [Link](https://thzy1.me/api.php/provide/vod) |
+| OK | adult | 🔞细胞资源 | 200 | 命中 | 753 | 无搜索结果 | [Link](https://www.xxibaozyw.com/api.php/provide/vod) |
+| OK | adult | 🔞香蕉资源 | 200 | 命中 | 832 | 无搜索结果 | [Link](https://www.xiangjiaozyw.com/api.php/provide/vod) |
+| OK | adult | 🔞小鸡资源 | 200 | 命中 | 688 |  | [Link](https://api.xiaojizy.live/provide/vod) |
+| OK | adult | 🔞杏吧资源 | 200 | 无结果 | 369 | 403 Forbidden | [Link](https://xingba222.com/api.php/provide/vod) |
+| OK | adult | 🔞玉兔资源 | 200 | 命中 | 281 |  | [Link](https://apiyutu.com/api.php/provide/vod) |
+| OK | adult | 🔞jkun资源 | 200 | 命中 | 117 |  | [Link](https://jkunzyapi.com/api.php/provide/vod) |
+| OK | adult | 🔞souavZY | 200 | 命中 | 751 |  | [Link](https://api.souavzyw.net/api.php/provide/vod) |
+| OK | lite | 360资源 | 200 | 命中 | 1188 |  | [Link](https://360zyzz.com/api.php/provide/vod) |
+| OK | lite | 爱奇艺 | 200 | 命中 | 2609 |  | [Link](https://iqiyizyapi.com/api.php/provide/vod) |
+| OK | lite | 暴风资源 | 200 | 命中 | 827 |  | [Link](https://bfzyapi.com/api.php/provide/vod) |
+| OK | lite | 电影天堂 | 200 | HTTP 307 | 1707 |  | [Link](http://caiji.dyttzyapi.com/api.php/provide/vod) |
+| OK | lite | 豆瓣资源 | 200 | 无结果 | 639 | 有伦理片 | [Link](https://caiji.dbzy5.com/api.php/provide/vod) |
+| OK | lite | 非凡资源 | 200 | HTTP 307 | 1199 |  | [Link](https://api.ffzyapi.com/api.php/provide/vod) |
+| OK | lite | 光速资源 | 200 | 命中 | 117 |  | [Link](https://api.guangsuapi.com/api.php/provide/vod) |
+| OK | lite | 豪华资源 | 200 | 命中 | 816 |  | [Link](https://hhzyapi.com/api.php/provide/vod) |
+| OK | lite | 红牛资源 | 200 | 命中 | 450 |  | [Link](https://www.hongniuzy2.com/api.php/provide/vod) |
+| OK | lite | 虎牙资源 | 200 | 命中 | 2317 | 污染搜索结果 | [Link](https://www.huyaapi.com/api.php/provide/vod) |
+| OK | lite | 极速资源 | 200 | 命中 | 1057 |  | [Link](https://jszyapi.com/api.php/provide/vod) |
+| OK | lite | 快车资源 | 200 | 无结果 | 438 | 暂不支持搜索 | [Link](https://caiji.kuaichezy.org/api.php/provide/vod) |
+| OK | lite | 量子影视 | 200 | 命中 | 585 | 备用 | [Link](https://cj.lziapi.com/api.php/provide/vod) |
+| OK | lite | 量子资源 | 200 | 命中 | 1262 |  | [Link](https://cj.lzcaiji.com/api.php/provide/vod) |
+| OK | lite | 猫眼资源 | 200 | 命中 | 1758 |  | [Link](https://api.maoyanapi.top/api.php/provide/vod) |
+| OK | lite | 茅台资源 | 200 | 无结果 | 1750 |  | [Link](https://caiji.maotaizy.cc/api.php/provide/vod) |
+| OK | lite | 魔都动漫 | 200 | 命中 | 1335 |  | [Link](https://caiji.moduapi.cc/api.php/provide/vod) |
+| OK | lite | 魔都资源 | 200 | 命中 | 1802 |  | [Link](https://www.mdzyapi.com/api.php/provide/vod) |
+| OK | lite | 如意资源 | 200 | 命中 | 2109 |  | [Link](https://cj.rycjapi.com/api.php/provide/vod) |
+| OK | lite | 闪电资源 | 200 | 无结果 | 469 | 暂不支持搜索 | [Link](https://xsd.sdzyapi.com/api.php/provide/vod) |
+| OK | lite | 速播资源 | 200 | 命中 | 2261 |  | [Link](https://subocaiji.com/api.php/provide/vod) |
+| OK | lite | 索尼资源 | 200 | 无结果 | 164 | 暂不支持搜索 | [Link](https://suoniapi.com/api.php/provide/vod) |
+| OK | lite | 卧龙资源 | 200 | 无结果 | 1119 |  | [Link](https://wolongzyw.com/api.php/provide/vod) |
+| OK | lite | 无尽资源 | 200 | 命中 | 418 |  | [Link](https://api.wujinapi.me/api.php/provide/vod) |
+| OK | lite | 新浪资源 | 200 | 命中 | 712 |  | [Link](https://api.xinlangapi.com/xinlangapi.php/provide/vod) |
+| OK | lite | 鸭鸭资源 | 200 | 无结果 | 516 | 暂不支持搜索 | [Link](https://cj.yayazy.net/api.php/provide/vod) |
+| OK | lite | 樱花资源 | 200 | HTTP 403 | 738 |  403 Forbidden  | [Link](https://m3u8.apiyhzy.com/api.php/provide/vod) |
+| OK | lite | 优质资源 | 200 | 命中 | 1392 | 无法搜索 | [Link](https://api.yzzy-api.com/inc/apijson.php) |
+| OK | lite | 最大点播 | 200 | 命中 | 786 | 备用 | [Link](https://zuidazy.me/api.php/provide/vod) |
+| OK | lite | 最大资源 | 200 | 命中 | 318 |  | [Link](https://api.zuidapi.com/api.php/provide/vod) |
+| OK | lite | iKun资源 | 200 | 命中 | 1220 |  | [Link](https://ikunzyapi.com/api.php/provide/vod) |
+| OK | lite | U酷影视 | 200 | 命中 | 525 |  | [Link](https://api.ukuapi88.com/api.php/provide/vod) |
 
 ## 生成文件
 
 - `lite.json`: 检测通过的普通源，共 32 个
-- `adult.json`: 检测通过的成人源，共 29 个
-- `full.json`: `lite.json` + `adult.json` 汇总，共 61 个
+- `adult.json`: 检测通过的成人源，共 30 个
+- `full.json`: `lite.json` + `adult.json` 汇总，共 62 个
 
 所有生成文件均为扁平源映射结构，与 `input.json` 一致。
 
@@ -99,14 +99,14 @@
 
 ```json
 {
-  "generated_at": "2026/07/24 02:08:41",
+  "generated_at": "2026/07/25 02:12:45",
   "keyword": "你好",
   "total": 72,
-  "ok": 61,
-  "failed": 11,
-  "search_matched": 47,
+  "ok": 62,
+  "failed": 10,
+  "search_matched": 48,
   "lite": 32,
-  "adult": 29,
-  "full": 61
+  "adult": 30,
+  "full": 62
 }
 ```
