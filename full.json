@@ -129,11 +129,6 @@
     "api": "https://api.yzzy-api.com/inc/apijson.php",
     "detail": "https://1080zyk4.com"
   },
-  "www.huyaapi.com": {
-    "name": "虎牙资源",
-    "api": "https://www.huyaapi.com/api.php/provide/vod",
-    "detail": "https://www.huyaapi.com"
-  },
   "yayazy3.com": {
     "name": "鸭鸭资源",
     "api": "https://cj.yayazy.net/api.php/provide/vod",
