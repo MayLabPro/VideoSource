@@ -69,6 +69,11 @@
     "api": "https://apilj.com/api.php/provide/vod",
     "detail": "https://apilj.com"
   },
+  "shayuapi.com": {
+    "name": "🔞鲨鱼资源",
+    "api": "https://shayuapi.com/api.php/provide/vod",
+    "detail": "https://shayuapi.com"
+  },
   "doudouzy.com": {
     "name": "🔞豆豆资源",
     "api": "https://api.douapi.cc/api.php/provide/vod",
