@@ -84,6 +84,11 @@
     "api": "https://subocaiji.com/api.php/provide/vod",
     "detail": "https://www.subozy.com"
   },
+  "jinyingzy.com": {
+    "name": "金鹰点播",
+    "api": "https://jinyingzy.com/api.php/provide/vod",
+    "detail": "https://jinyingzy.com"
+  },
   "api.ukuapi88.com": {
     "name": "U酷影视",
     "api": "https://api.ukuapi88.com/api.php/provide/vod",
@@ -228,11 +233,6 @@
     "name": "🔞辣椒资源",
     "api": "https://apilj.com/api.php/provide/vod",
     "detail": "https://apilj.com"
-  },
-  "shayuapi.com": {
-    "name": "🔞鲨鱼资源",
-    "api": "https://shayuapi.com/api.php/provide/vod",
-    "detail": "https://shayuapi.com"
   },
   "doudouzy.com": {
     "name": "🔞豆豆资源",

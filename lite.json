@@ -84,6 +84,11 @@
     "api": "https://subocaiji.com/api.php/provide/vod",
     "detail": "https://www.subozy.com"
   },
+  "jinyingzy.com": {
+    "name": "金鹰点播",
+    "api": "https://jinyingzy.com/api.php/provide/vod",
+    "detail": "https://jinyingzy.com"
+  },
   "api.ukuapi88.com": {
     "name": "U酷影视",
     "api": "https://api.ukuapi88.com/api.php/provide/vod",
