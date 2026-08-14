@@ -89,6 +89,16 @@
     "api": "https://api.guangsuapi.com/api.php/provide/vod",
     "detail": "https://api.guangsuapi.com"
   },
+  "www.hongniuzy.com": {
+    "name": "红牛资源",
+    "api": "https://www.hongniuzy2.com/api.php/provide/vod",
+    "detail": "https://www.hongniuzy.com"
+  },
+  "caiji.moduapi.cc": {
+    "name": "魔都动漫",
+    "api": "https://caiji.moduapi.cc/api.php/provide/vod",
+    "detail": "https://caiji.moduapi.cc"
+  },
   "www.haohuazy.com": {
     "name": "豪华资源",
     "api": "https://hhzyapi.com/api.php/provide/vod",
@@ -98,5 +108,10 @@
     "name": "量子影视",
     "api": "https://cj.lziapi.com/api.php/provide/vod",
     "detail": "https://lzizy.net"
+  },
+  "zuidazy.co": {
+    "name": "最大点播",
+    "api": "https://zuidazy.me/api.php/provide/vod",
+    "detail": "https://zuidazy.co"
   }
 }
