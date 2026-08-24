@@ -1,8 +1,8 @@
 {
-  "iqiyizyapi.com": {
-    "name": "爱奇艺",
-    "api": "https://iqiyizyapi.com/api.php/provide/vod",
-    "detail": "https://iqiyizyapi.com"
+  "dbzy.tv": {
+    "name": "豆瓣资源",
+    "api": "https://caiji.dbzy5.com/api.php/provide/vod",
+    "detail": "https://dbzy.tv"
   },
   "mtzy.me": {
     "name": "茅台资源",
@@ -13,11 +13,6 @@
     "name": "卧龙资源",
     "api": "https://wolongzyw.com/api.php/provide/vod",
     "detail": "https://wolongzyw.com"
-  },
-  "ikunzy.com": {
-    "name": "iKun资源",
-    "api": "https://ikunzyapi.com/api.php/provide/vod",
-    "detail": "https://ikunzy.com"
   },
   "dyttzyapi.com": {
     "name": "电影天堂",
@@ -79,10 +74,25 @@
     "api": "https://subocaiji.com/api.php/provide/vod",
     "detail": "https://www.subozy.com"
   },
+  "jinyingzy.com": {
+    "name": "金鹰点播",
+    "api": "https://jinyingzy.com/api.php/provide/vod",
+    "detail": "https://jinyingzy.com"
+  },
   "api.ukuapi88.com": {
     "name": "U酷影视",
     "api": "https://api.ukuapi88.com/api.php/provide/vod",
     "detail": "https://www.ukuzy.com"
+  },
+  "api.guangsuapi.com": {
+    "name": "光速资源",
+    "api": "https://api.guangsuapi.com/api.php/provide/vod",
+    "detail": "https://api.guangsuapi.com"
+  },
+  "www.hongniuzy.com": {
+    "name": "红牛资源",
+    "api": "https://www.hongniuzy2.com/api.php/provide/vod",
+    "detail": "https://www.hongniuzy.com"
   },
   "caiji.moduapi.cc": {
     "name": "魔都动漫",
@@ -113,6 +123,11 @@
     "name": "优质资源",
     "api": "https://api.yzzy-api.com/inc/apijson.php",
     "detail": "https://1080zyk4.com"
+  },
+  "www.huyaapi.com": {
+    "name": "虎牙资源",
+    "api": "https://www.huyaapi.com/api.php/provide/vod",
+    "detail": "https://www.huyaapi.com"
   },
   "yayazy3.com": {
     "name": "鸭鸭资源",

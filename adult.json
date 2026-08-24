@@ -44,11 +44,6 @@
     "api": "https://apidanaizi.com/api.php/provide/vod",
     "detail": "https://apidanaizi.com"
   },
-  "jkunzyapi.com": {
-    "name": "🔞jkun资源",
-    "api": "https://jkunzyapi.com/api.php/provide/vod",
-    "detail": "https://jkunzyapi.com"
-  },
   "lbapi9.com": {
     "name": "🔞乐播资源",
     "api": "https://lbapi9.com/api.php/provide/vod",
@@ -143,10 +138,5 @@
     "name": "🔞色猫资源",
     "api": "https://caiji.semaozy.net/inc/apijson_vod.php/provide/vod",
     "detail": "https://semaozy1.com"
-  },
-  "aosikazy.com": {
-    "name": "🔞-奥斯卡-",
-    "api": "https://aosikazy.com/api.php/provide/vod",
-    "detail": "https://aosikazy.com"
   }
 }
