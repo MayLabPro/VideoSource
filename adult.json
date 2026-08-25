@@ -34,15 +34,15 @@
     "api": "https://api.xiaojizy.live/provide/vod",
     "detail": "https://xiaojizy.live"
   },
-  "hsckzy.xyz": {
-    "name": "🔞黄色仓库",
-    "api": "https://hsckzy.xyz/api.php/provide/vod",
-    "detail": "https://hsckzy.xyz"
-  },
   "apidanaizi.com": {
     "name": "🔞-大奶子-",
     "api": "https://apidanaizi.com/api.php/provide/vod",
     "detail": "https://apidanaizi.com"
+  },
+  "jkunzyapi.com": {
+    "name": "🔞jkun资源",
+    "api": "https://jkunzyapi.com/api.php/provide/vod",
+    "detail": "https://jkunzyapi.com"
   },
   "lbapi9.com": {
     "name": "🔞乐播资源",
@@ -63,11 +63,6 @@
     "name": "🔞辣椒资源",
     "api": "https://apilj.com/api.php/provide/vod",
     "detail": "https://apilj.com"
-  },
-  "shayuapi.com": {
-    "name": "🔞鲨鱼资源",
-    "api": "https://shayuapi.com/api.php/provide/vod",
-    "detail": "https://shayuapi.com"
   },
   "doudouzy.com": {
     "name": "🔞豆豆资源",
@@ -138,5 +133,10 @@
     "name": "🔞色猫资源",
     "api": "https://caiji.semaozy.net/inc/apijson_vod.php/provide/vod",
     "detail": "https://semaozy1.com"
+  },
+  "aosikazy.com": {
+    "name": "🔞-奥斯卡-",
+    "api": "https://aosikazy.com/api.php/provide/vod",
+    "detail": "https://aosikazy.com"
   }
 }

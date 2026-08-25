@@ -1,4 +1,9 @@
 {
+  "iqiyizyapi.com": {
+    "name": "爱奇艺",
+    "api": "https://iqiyizyapi.com/api.php/provide/vod",
+    "detail": "https://iqiyizyapi.com"
+  },
   "dbzy.tv": {
     "name": "豆瓣资源",
     "api": "https://caiji.dbzy5.com/api.php/provide/vod",
@@ -13,6 +18,11 @@
     "name": "卧龙资源",
     "api": "https://wolongzyw.com/api.php/provide/vod",
     "detail": "https://wolongzyw.com"
+  },
+  "ikunzy.com": {
+    "name": "iKun资源",
+    "api": "https://ikunzyapi.com/api.php/provide/vod",
+    "detail": "https://ikunzy.com"
   },
   "dyttzyapi.com": {
     "name": "电影天堂",
