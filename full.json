@@ -264,6 +264,11 @@
     "api": "https://ckzy.me/api.php/provide/vod",
     "detail": "https://ckzy.me"
   },
+  "souavzyw.com": {
+    "name": "🔞souavZY",
+    "api": "https://api.souavzyw.net/api.php/provide/vod",
+    "detail": "https://api.souavzyw.net"
+  },
   "www.msnii.com": {
     "name": "🔞-美少女-",
     "api": "https://www.msnii.com/api/json.php",
