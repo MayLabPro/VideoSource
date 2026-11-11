@@ -1,9 +1,4 @@
 {
-  "iqiyizyapi.com": {
-    "name": "爱奇艺",
-    "api": "https://iqiyizyapi.com/api.php/provide/vod",
-    "detail": "https://iqiyizyapi.com"
-  },
   "wolongzyw.com": {
     "name": "卧龙资源",
     "api": "https://wolongzyw.com/api.php/provide/vod",
@@ -38,11 +33,6 @@
     "name": "极速资源",
     "api": "https://jszyapi.com/api.php/provide/vod",
     "detail": "https://jszyapi.com"
-  },
-  "www.moduzy.net": {
-    "name": "魔都资源",
-    "api": "https://www.mdzyapi.com/api.php/provide/vod",
-    "detail": "https://www.moduzy.net"
   },
   "ffzyapi.com": {
     "name": "非凡资源",
@@ -93,11 +83,6 @@
     "name": "红牛资源",
     "api": "https://www.hongniuzy2.com/api.php/provide/vod",
     "detail": "https://www.hongniuzy.com"
-  },
-  "caiji.moduapi.cc": {
-    "name": "魔都动漫",
-    "api": "https://caiji.moduapi.cc/api.php/provide/vod",
-    "detail": "https://caiji.moduapi.cc"
   },
   "www.ryzyw.com": {
     "name": "如意资源",
